@@ -1,0 +1,4 @@
+[submodule "umnyiprogrammist/public"]
+	path = umnyiprogrammist/public
+	url = git@github.com:umnyiprogrammist/umnyiprogrammist.github.io.git
+	branch = main

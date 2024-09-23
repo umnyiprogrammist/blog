@@ -1,0 +1,8 @@
+baseURL = 'https://umnyiprogrammist.github.io/'
+languageCode = 'ru-RU'
+title = 'Умный программист'
+theme = 'PaperMod'
+defaultTheme = 'dark'
+hideMeta = 'true'
+copyright = '© 2024 Умный программист'
+
